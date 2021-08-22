@@ -1,0 +1,12 @@
+.body-cards {
+    background-image: url("../../assets/imagenes/gondola.jpg");
+}
+
+
+.title-cards{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: wheat;
+
+}
