@@ -1,0 +1,19 @@
+Reto => La Verduleria
+
+Es un reto de selección, se trata de una app de una verdulería mostrando los productos
+
+IMPORTANTE realizar las siguientes instalaciones: 
+
+* npm install
+* npm install --save react-router-dom
+* npm bootstrap
+_________________________________________________________________
+ENUNCIADO
+_________________________________________________________________
+
+La verdulería es un servicio de compras por delivery que necesita dar el paso siguiente y
+montar una tienda en línea para poder ofertar y vender sus productos a través de internet.
+En el MVP se espera que, como cliente, pueda navegar a través del catálogo de verduras
+disponibles de la tienda, seleccionar el item que desee comprar y agregarlo al carrito de
+compras. Una vez que tenga listo el pedido debe poder realizar el proceso de check out para
+finalizar la compra.
